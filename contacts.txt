@@ -1,0 +1,16 @@
+$
+US & Canada
+Tel: +1 222 2222 2222
+Email: us@rentjetonline.com
+$
+Europe
+Tel: +44 44 4444 4444
+Email: eu@rentjetonline.com
+$
+Asia/Pacific
+Tel: +77 7777 7777
+Email: asia@rentjetonline.com
+$
+Latin America
+Tel: +1 333 333 3333
+Email: latin@rentjetonline.com
